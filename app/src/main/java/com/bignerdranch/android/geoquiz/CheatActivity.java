@@ -18,7 +18,7 @@ public class CheatActivity extends AppCompatActivity {
 
     private static final String EXTRA_ANSWER_SHOWN =
             "com.bignerdranch.android.geoquiz.answer_shown";
-
+    //kk
     private boolean mAnswerIsTrue;
 
     private TextView mAnswerTextView;
